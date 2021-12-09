@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Mercedes",
+        "price": "10000",
+        "category": "Car",
+        "thumbnail": "uploads/8WBHyzmGjjZo4dQdXXy2oKTl.jpg"
+    },
+    {
+        "title": "BMW",
+        "price": "202020",
+        "category": "Tech",
+        "thumbnail": "uploads/sgRogGOpyDHC7pm-wnmizTb6.png"
+    }
+]
